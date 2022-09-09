@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Research topic "Metaverse in Education"
+- 🔭 I’m currently working on a research topic: "Metaverse in Education"
 - 🌱 I’m currently learning XR with Unity3D
 - 👯 I’m looking to collaborate on basic cross-platform mobile apps development.
 - 🤔 I’m looking for companions for competitive coding.
