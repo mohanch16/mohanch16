@@ -6,8 +6,9 @@
 - 🤔 I’m looking for companions for competitive coding.
 - 💬 Ask me about: Web development (dotnet, C#, Angular, Azure, DevOps, Node.js), XR, Databases, Software languages engineering. 
 - 😄 Pronouns: He/him
+<!--
 - ⚡ Fun fact: I am a mindshifter.
-
+-->
 ![Mohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohanch16&count_private=true&show_icons=true&theme=tokyonight)
 
 <!--
