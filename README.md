@@ -1,7 +1,9 @@
 ### Hi there 👋
-
+<!--
 - 🔭 I’m currently working on a research topic: "Metaverse in Education"
 - 🌱 I’m currently learning XR with Unity3D
+-->
+- 🔭 I’m software engineer, currently exploring: distributed architecture.
 - 👯 I’m looking to collaborate on basic cross-platform mobile apps development.
 - 🤔 I’m looking for companions for competitive coding.
 - 💬 Ask me about: Web development (dotnet, C#, Angular, Azure, DevOps, Node.js), XR, Databases, Software languages engineering. 
